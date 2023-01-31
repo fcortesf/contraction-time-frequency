@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+.button {
+    position: relative;
+    appearance: none;
+    background: #f72359;
+    padding: 1em 2em;
+    border: none;
+    color: white;
+    font-size: 1.2em;
+    cursor: pointer;
+    outline: none;
+    overflow: hidden;
+    border-radius: 100px; 
+    margin-bottom: 1em;
+}
+.time-display {
+    font-size: 1.2em;
+}
