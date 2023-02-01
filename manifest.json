@@ -5,6 +5,6 @@
     "background_color": "#bb2649",
     "display": "fullscreen",
     "orientation": "portrait",
-    "scope": "/",
-    "start_url": "/"
+    "scope": "/contraction-time-frequency/",
+    "start_url": "/contraction-time-frequency/"
   }
