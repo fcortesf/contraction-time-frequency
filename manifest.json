@@ -3,7 +3,7 @@
     "short_name": "Contract",
     "theme_color": "#bb2649",
     "background_color": "#bb2649",
-    "display": "fullscreen",
+    "display": "standalone",
     "orientation": "portrait",
     "scope": "/contraction-time-frequency/",
     "start_url": "/contraction-time-frequency/"
